@@ -15,8 +15,6 @@ Our take on the NLP Stanford Course
 
 **Output with small Filter**
 
-`
 [['He', 'wasnt', 'home', 'alone', 'apparently']]
 
 ('time taken for filtering with filtersize = +0.000600', 20.661389134061913)
-`
