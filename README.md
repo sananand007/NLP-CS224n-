@@ -13,8 +13,3 @@ Our take on the NLP Stanford Course
 | Learning representations by back-propogating errors (Rumelhart et al.,1986)   | -Not required yet-| To-read |
 | word2vec Parameter Learning Explained   | https://arxiv.org/pdf/1411.2738.pdf| To-read |
 
-**Output with small Filter**
-
-[['He', 'wasnt', 'home', 'alone', 'apparently']]
-
-('time taken for filtering with filtersize = +0.000600', 20.661389134061913)
